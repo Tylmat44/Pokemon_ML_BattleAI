@@ -1,1 +1,0 @@
-Fitness = Opp HP - Cur HP - Turncount
